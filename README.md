@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-Status = [![Build Status](https://dev.azure.com/massilkadi/Parts%20Unlimited/_apis/build/status/Maxxil.ContosoAir?branchName=master)](https://dev.azure.com/massilkadi/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/massilkadi/Parts%20Unlimited/_apis/build/status/Maxxil.ContosoAir?branchName=master)](https://dev.azure.com/massilkadi/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
