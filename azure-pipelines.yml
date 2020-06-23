@@ -3,7 +3,7 @@ pool:
 trigger:
   - master
 steps:
-  -script: "npm i jest --global"
+  - script: "npm i jest --global"
     displayName: "Install Jest"
     continueOnError: true
   - task: Npm@1
